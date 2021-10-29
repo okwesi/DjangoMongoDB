@@ -87,7 +87,8 @@ DATABASES = {
         'NAME': 'djangotest',
     }
 }
-
+# https://letsencrypt.org/certs/lets-encrypt-r3.pem
+# link for online certificate for django
 # Password validation
 # https://docs.djangoproject.com/en/3.2/ref/settings/#auth-password-validators
 
